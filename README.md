@@ -2,4 +2,4 @@
 
 
 Random Country Germany.
-[!alt text(screens/calculator.png)]
+[!alt (screens/calculator.png)]
